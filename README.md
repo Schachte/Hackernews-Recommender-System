@@ -1,4 +1,4 @@
-# Creating a Python-based recommender system for HackerNews posts
+# Creating a recommender system for articles
 
 In this notebook, we will walk through how to create a simple algorithm that will recommend the top N posts based on our interests. The steps required to do this look like the following:
 
